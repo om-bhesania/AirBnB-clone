@@ -1,6 +1,6 @@
 # AirBnB-clone
 
-<h1>setp-1 : npm install</h1> <br>
-<h1>step-2 : npm run start </h1>
+<h3>setp-1 : npm install</h3> <br>
+<h3>step-2 : npm run start </h3>
 
-#clone is ready
+<h3>clone is ready</h3>
